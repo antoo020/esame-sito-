@@ -73,13 +73,13 @@ header nav ul {
         width: 530px;
         margin-left: 130px;
     }
-.posillipo-flex{
-    display: flex;
-    gap: 40px;
-    align-items: last baseline;
-    margin-bottom: 10px;
-}
-    
+
+    .posillipo-flex{
+        display: flex;
+        gap: 40px;
+        align-items: last baseline;
+        margin-bottom: 10px;
+    }
     
     section.card {
         display: flex;
@@ -95,7 +95,7 @@ header nav ul {
     }
     .card img {
         padding-top: 50px;
-        width: 630px;
+        width: 530px;
         margin-left: 15px;
     }
     .custom-line2 {
