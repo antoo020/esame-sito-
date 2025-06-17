@@ -73,13 +73,12 @@ header nav ul {
         width: 530px;
         margin-left: 130px;
     }
-.vomero-flex{
-    display: flex;
-    gap: 40px;
-    align-items: last baseline;
-    margin-bottom: 10px;
-}
-    
+    .vomero-flex{
+        display: flex;
+        gap: 40px;
+        align-items: last baseline;
+        margin-bottom: 10px;
+    }
     section.card {
         display: flex;
         flex-wrap: wrap;
@@ -96,6 +95,7 @@ header nav ul {
         padding-top: 30px;
         width: 530px;
         margin-left: 15px;
+        
     }
     .custom-line2 {
         width: 150px;
