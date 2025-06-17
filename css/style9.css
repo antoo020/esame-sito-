@@ -73,6 +73,12 @@ header nav ul {
         width: 530px;
         margin-left: 130px;
     }
+.vomero-flex{
+    display: flex;
+    gap: 40px;
+    align-items: last baseline;
+    margin-bottom: 10px;
+}
     
     section.card {
         display: flex;
