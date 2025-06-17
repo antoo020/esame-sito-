@@ -44,6 +44,9 @@ header nav ul {
     gap: 70px;
     margin: auto;
     }
+    nav a.active{
+        color: #4AC2CB;
+    }
     
     main a {
         text-decoration-line: none;
